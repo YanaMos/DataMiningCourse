@@ -1,2 +1,2 @@
 # DataMiningCourse
-Correlation between two variables
+Lab1 - Correlation between two variables

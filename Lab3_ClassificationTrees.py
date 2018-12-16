@@ -52,7 +52,7 @@ def model(data, label, feature_name):
     # 'scale_pos_weight' - for unbalanced dataset (calculated as negative / positive)
     params = {
         'objective': 'binary:logistic',
-        'max_depth': 3,
+        'max_depth': 5,
         'max_delta_step': 1,
         'scale_pos_weight': 3
     }
